@@ -25,4 +25,6 @@ public interface MetaDto extends Cloneable
 
     void remove(String key);
 
+    String getIdField();
+
 }
