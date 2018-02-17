@@ -2,7 +2,6 @@ package net.lulli.metadao.api.roles;
 
 import net.lulli.metadao.api.MetaDto;
 
-import java.sql.Connection;
 import java.util.List;
 
 public interface MetaDaoAdminInterface<T>
